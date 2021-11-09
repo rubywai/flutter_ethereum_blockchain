@@ -25,13 +25,18 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^0.13.3
-  velocity_x: ^3.3.0
   web3dart: ^2.2.0
+  streaming_shared_preferences: ^2.0.0
+  qr_flutter: ^4.0.0
+  get: ^4.3.8
+  qr_code_scanner: ^0.6.1
+  dio:
  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  build_runner :
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
